@@ -76,7 +76,11 @@ nuevo valor?
                       (c) V = 50 V, R = 100 Ω
                       (d) V = 30 V, R = 15 k Ω
                       (e) V = 250 V, R = 5.6 M Ω
-                      
+
+
+   ![image](https://user-images.githubusercontent.com/94079321/142343462-05ee8ac9-0914-4630-bd01-f76980952547.png)
+
+   
 17) Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
 
 
@@ -193,6 +197,26 @@ Olivier Darrigol, Electrodynamics from Ampère to Einstein (https://books.google
 SECCIÓN 4–1 Energía y potencia
 
 1) Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
+
+Potencia es igual a la energía dividido por el tiempo:
+P=E/t
+Si la unidad de potencia (P) es el watt (W), en honor de Santiago Watt, la energía (E) se expresa en julios (J) y el tiempo (t) lo expresamos en segundos, tenemos que:
+1 watt=1 julio/1 segundo 
+Entonces, podemos decir que la potencia se mide en julio (joule) dividido por segundo ( J/seg ) y se representa con la letra “ P ”.
+Además, diremos que la unidad de medida de la potencia eléctrica “ P ” es el “ watt ”, y se representa con la letra “ W ”.
+Como un J/seg equivale a 1 watt ( W ), por tanto, cuando se consume 1 julio (joule) de potencia en un segundo, estamos gastando o consumiendo 1 watt de energía eléctrica.
+Para calcular la potencia que consume un dispositivo conectado a un circuito eléctrico se multiplica el valor de la tensión, en volt (V) , aplicada por el valor de la intensidad (I) de la corriente que lo recorre (expresada en ampere ).
+Para realizar ese cálculo matemático se utiliza la siguiente fórmula:
+P = V • I
+Expresado en palabras: Potencia (P) es igual a la tensión (V) multiplicada por la Intensidad (I).
+Como la potencia se expresa en watt (W), sustituimos la “ P ” que identifica la potencia por su equivalente, es decir, la “ W ” de watt, tenemos también que: P = W , por tanto,
+W = V • I
+Expresado en palabras: Watt (W) es igual a la tensión (V) multiplicada por la Intensidad (I).
+Si conocemos la potencia en watt de un dispositivo y la tensión o voltaje aplicado (V) y queremos hallar la intensidad de corriente (I) que fluye por un circuito, despejamos la fórmula anterior y realizamos la operación matemática correspondiente: 
+I=W/V
+Si observamos la fórmula    W = V • I veremos que el voltaje y la intensidad de la corriente que fluye por un circuito eléctrico son directamente proporcionales a la potencia; es decir, si uno de ellos aumenta o disminuye su valor, la potencia también aumenta o disminuye de forma proporcional.
+Entonces podemos deducir que, 1 watt ( W ) es igual a 1 ampere de corriente ( I ) que fluye por un circuito, multiplicado por 1 volt ( V ) de tensión o voltaje aplicado.
+1 watt = 1 volt · 1 ampere
 
 
 3) ¿Cuál es la potencia cuando se consume energía a razón de 350 J/s?
