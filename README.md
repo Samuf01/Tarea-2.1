@@ -40,34 +40,53 @@ cuando
     
     (f) el voltaje y la resistencia se duplican
 
+![image](https://user-images.githubusercontent.com/94079321/142461761-e8b1805a-22e8-43bb-bc89-3c3351956c29.png)
+
+
 3) Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos
 
                    (a) se incrementa (b) disminuye (c) no cambia
-                   
+ 
+ ![image](https://user-images.githubusercontent.com/94079321/142461922-22222ed1-5b19-4832-9fa6-dedda107855a.png)
+
+ 
 5) Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente
 el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de
 V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
 ![image](https://user-images.githubusercontent.com/94079321/142257530-fa2110b4-7226-4a6d-9925-82f8f96ceba1.png)
 
+![image](https://user-images.githubusercontent.com/94079321/142461968-5f5f0df0-93bf-43a3-b6d5-0bace10ab06c.png)
+
 
 7) La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
 R2 y R3.
+
+![image](https://user-images.githubusercontent.com/94079321/142462049-1bc56508-0226-49cb-8832-f9100f623f4b.png)
+
 
 ![image](https://user-images.githubusercontent.com/94079321/142257575-db39a4b9-c0d0-44c8-ae0b-47874adbad4c.png)
 
 9) Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
 gris, café, rojo
 
+![image](https://user-images.githubusercontent.com/94079321/142462147-617c9128-964f-4748-836e-eb332d5a70a8.png)
+
+
 11) Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
 tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
 debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
 nuevo valor?
 
+![image](https://user-images.githubusercontent.com/94079321/142462438-0599f14a-3a78-40e4-9e86-a995415454d4.png)
+
 
 13) Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia
       
                       (a) 1.0 Ω   (b)5.0 Ω  (c) 20 Ω   (d) 100 Ω
+
+![image](https://user-images.githubusercontent.com/94079321/142462486-994f766c-c5bd-4f68-909f-038d45027293.png)
+
 
 15) Determine la corriente en cada caso:
                   
@@ -244,6 +263,8 @@ Podemos deducir para el problema que cada segundo consume 350 J, y esto es se pu
 
 5) ¿A cuántos watts equivalen 1000 J en 50 ms?
 
+![image](https://user-images.githubusercontent.com/94079321/142460450-7757ffd9-ea67-4ad9-a3b2-0568af66fd7a.png)
+
 
 7) Convierta las siguientes cantidades en megawatts:
 
@@ -255,6 +276,9 @@ Podemos deducir para el problema que cada segundo consume 350 J, y esto es se pu
 9) Convierta las siguientes cantidades en microwatts:
 
         (a) 2 W (b) 0.0005 W (c) 0.25 mW (d) 0.00667 mW
+
+![image](https://user-images.githubusercontent.com/94079321/142460505-aff0c014-5467-4da4-a7c1-3d3093ca9b5c.png)
+
 
 11) Un dispositivo electrónico en particular utiliza 100 mW de potencia. Si funciona durante 24 h, ¿cuántos joules de energía consume?
 
@@ -276,19 +300,30 @@ SECCIÓN 4–2 Potencia en un circuito eléctrico
 
 17) Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
 
+![image](https://user-images.githubusercontent.com/94079321/142477244-5ac6fad4-0a05-4434-a888-96daf21b29fb.png)
+
 
 19) Un calentador eléctrico funciona con 120 V y absorbe 3 A de corriente. ¿Cuánta potencia utiliza?
 
+![image](https://user-images.githubusercontent.com/94079321/142477352-8e1684dd-6edb-4b36-b4d6-35c365bd9fc6.png)
 
 21) Calcule la potencia disipada por un resistor de 10 kΩ que transporta 100 μA
 
+![image](https://user-images.githubusercontent.com/94079321/142477421-7fb3ff12-8a5f-45a5-88ed-dde5c7d495ce.png)
+
+
 23) Se conecta un resistor de 56 Ω entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de
 potencia en el resistor?
+
+
 
 25) Una fuente de 12 V se conecta entre los extremos de un resistor de 10 Ω
 
          (a) ¿Cuánta energía se utiliza en dos minutos?
          (b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+         
+![image](https://user-images.githubusercontent.com/94079321/142475359-f1222d8d-38e9-4715-913b-9473d1ee7366.png)
+         
          
 Clasificaciones de potencia en resistores
 
@@ -296,6 +331,9 @@ Clasificaciones de potencia en resistores
 utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
 Conversión de energía y caída de voltaje en una resistencia
+
+![image](https://user-images.githubusercontent.com/94079321/142475405-15f87271-db33-4c08-94a6-f82a03479142.png)
+
 
 29) Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
 
