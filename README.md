@@ -332,3 +332,5 @@ Capítulo 3 TRABAJO Y ENERGÍA. (s. f.). PDF. Recuperado 17 de noviembre de 2021
 TRABAJO, ENERGÍA Y POTENCIA. (s. f.). PDF. Recuperado 17 de noviembre de 2021, de https://www2.ulpgc.es/hege/almacen/download/5/5480/Trabajo_potencia_y_energia.pdf
 
   # Video
+
+https://youtu.be/09zOcT5zOs8
