@@ -337,15 +337,28 @@ Conversión de energía y caída de voltaje en una resistencia
 
 29) Una carga de 50 Ω utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
 
-31) . ¿Cuál es la energía total en joules que suministra la batería del problema 30 durante 90 horas?
+![image](https://user-images.githubusercontent.com/94079321/142502204-e9eb779a-2949-4ed4-9559-05884bbd1a98.png)
+
+
+31) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas
+en una carga de 10 Ω antes de volverse inutilizable. ¿Cuál es la energía total en joules que suministra la batería del problema durante 90 horas?
+
+![image](https://user-images.githubusercontent.com/94079321/142502262-225e628b-4445-47ef-aab7-4c44fc80fb6b.png)
+
 
 33) ¿Cuánta corriente promedio puede ser absorbida de una batería de 80 Ah durante 10 h?
+
+
+![image](https://user-images.githubusercontent.com/94079321/142502335-33da356b-a476-4a1a-97cb-47552c057901.png)
 
 
 35) Si la potencia de entrada es de 500 mW y la de salida de 400 mW, ¿cuánta potencia se pierde? ¿Cuál
 es la eficiencia de esta fuente de potencia?
 
-37) . Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
+![image](https://user-images.githubusercontent.com/94079321/142502428-7afa51d0-4c02-4576-a283-13657e530800.png)
+
+
+37) Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
 ![image](https://user-images.githubusercontent.com/94079321/142301045-3081f942-6fd5-4391-926e-d01de833db7d.png)
 
